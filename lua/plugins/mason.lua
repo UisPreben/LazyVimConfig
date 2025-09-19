@@ -1,5 +1,5 @@
 return {
-  "williamboman/mason.nvim",
+  "mason-org/mason.nvim",
   -- opts will be merged with the parent spec
   opts = {
     ensure_installed = {

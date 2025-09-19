@@ -3,8 +3,8 @@
 -- Add any additional options here
 vim.opt.colorcolumn = "80"
 vim.opt.scrolloff = 10
--- vim.g.lazyvim_python_lsp = "basedpyright"
+vim.g.lazyvim_python_lsp = "basedpyright"
 -- vim.g.lazyvim_python_lsp = "jedi_language_server"
-vim.g.lazyvim_python_lsp = "pyright"
+-- vim.g.lazyvim_python_lsp = "pyright"
 -- vim.g.lazyvim_python_lsp = "pylsp"
 vim.g.lazyvim_pyton_ruff = "ruff_lsp"
